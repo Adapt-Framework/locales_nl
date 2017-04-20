@@ -96,7 +96,7 @@
                         <date_data_type_id get-from="data_type" where-name-is="nl_date" />
                         <time_data_type_id get-from="data_type" where-name-is="nl_time" />
                         <datetime_data_type_id get-from="data_type" where-name-is="nl_datetime" />
-                        <currency_id get-form="currency" where-name-is="eur" />
+                        <currency_id get-from="currency" where-name-is="eur" />
                     </record>
                 </table>
                 <table name="country_phone_data_type">
